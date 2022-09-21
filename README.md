@@ -38,7 +38,11 @@ Natural Langauge Processing was utilized to clean the twitter data.  This proces
 * Standardizing
 * Tokeninzing
 
-After cleaning the text data, you could look at frequency of words in the full dataset.
+After cleaning the text data, you could look at frequency of words in the full dataset:
+
+### Word Frequency
+
+![Frequency.png](./Images/Frequency.png)
 
 
 ## Modeling Process

@@ -56,4 +56,8 @@ Three different models were created before choosing the best fit model.  Before 
 
 ## Conclusion
 
-The best fit model was XGBoost utlizing best parameters.  This model will acurately predict the emotion of a tweet 68% of the time.  Neutral was the best predicted emotion due to it having the most tweets.  It is reccomended to utilize this model to predict the emotion behind specific products which will be sold at target.  It is also recommended to utilize this model with more data to increase the scores.
+The best fit model was XGBoost utlizing best parameters.  This model has an accuracy of 0.68.  Neutral was the best predicted emotion due to it having the most tweets.  Precision scores are good throughout all classes in the model.
+
+It is worth noting that there is a huge class imbalance which is causing poor results for class 0 which is tweets associated as negative.
+
+It is reccomended to utilize this model to predict the emotion behind specific products which will be sold at Target.  It is also recommended to utilize this model with more data to increase the scores especially in class 0.

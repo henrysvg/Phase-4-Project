@@ -50,13 +50,13 @@ After cleaning the text data, you could look at frequency of words in the full d
 Three different models were created before choosing the best fit model.  Before modeling was done, the data was vectorized using TF-IDF Vecotrizer.
 
 ### Model Types:
-* Basekline Model with Multinomial NB
+* Baseline Model with Multinomial NB
 * Random Forest
 * XGBoost
 
 ## Conclusion
 
-The best fit model was XGBoost utlizing best parameters.  This model has an accuracy of 0.68.  Neutral was the best predicted emotion due to it having the most tweets.  Precision scores are good throughout all classes in the model.
+The best fit model was Random Forest.  This model has an accuracy of 0.67.  Neutral was the best predicted emotion due to it having the most tweets.  Precision scores are good throughout all classes in the model.
 
 It is worth noting that there is a huge class imbalance which is causing poor results for class 0 which is tweets associated as negative.
 

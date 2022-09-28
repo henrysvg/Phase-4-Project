@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis for Target
+# Twitter Sentiment Analysis for South By Southwest
 
 
 ## Project Overview
@@ -8,7 +8,11 @@ This project uses tweets which have been assigned an emotion to build a machine 
 
 ## Business Problem
 
-Target is one of the world largest retailers with a big electornic department in most stores. As the holiday season is approaching large retail sellers like Target are beginning to focus on what should be showcased in their stores especially during times where sales occur.  Target is looking to better understand the sentiment behind the products which they are selling in their electornics department.  By building a model that can use twitter data from one of the worlds largest technology conferences they will better understand what is looked upon positively and what is looked upon negatively from potential buyers.
+South By Southwest (SXSW) is one of the largest festivals in the world.  Taking place in Austin, Texas it consists of many exhibitions.  Technology based companies attend the event to showcase their brand any new technologies.
+
+Google and Apple attend South By Southwest.  The conference is looking to see how they can utilize twitter data to build a model for these companies to utilize in seeing if a tweet about their company/product is positive, neutral or negative.
+
+By building a model that can use twitter data from one of the worlds largest technology conferences they will better understand what is looked upon positively and what is looked upon negatively from potential buyers in the future.
 
 
 ## The Data
